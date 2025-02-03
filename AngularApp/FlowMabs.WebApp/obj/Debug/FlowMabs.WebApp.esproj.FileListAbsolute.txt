@@ -1,0 +1,2 @@
+C:\D Drive\ClientProjects\FlowMabs\FlowMabs.WebApp\FlowMabs.WebApp\obj\Debug\FlowMabs.WebApp.esproj.CoreCompileInputs.cache
+C:\D Drive\ClientProjects\FlowMabs\AngularApp\FlowMabs.WebApp\obj\Debug\FlowMabs.WebApp.esproj.CoreCompileInputs.cache
